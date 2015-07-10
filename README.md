@@ -1,9 +1,7 @@
 Touch Your Data: 3D Printing with Python
 ----------------------------------------
 
-IPython notebook, examples, and data from my Scipy2015 Talk
-
-<img src="images/3d_seismic_hand.jpg", width=80%>
+IPython notebook, examples, and data from my Scipy2015 Talk: https://www.youtube.com/watch?v=qGyXbNKPXqI
 
 Requires
 --------
